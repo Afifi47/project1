@@ -1,0 +1,19 @@
+{
+    "configurations": [
+    {
+        "name": "Attach",
+        "port": 9229,
+        "request": "attach",
+        "skipFiles": [
+            "<node_internals>/**"
+        ],
+        "type": "node"
+    },
+        {
+            "type": "chrome",
+            "name": "http://C:\\Users\\Lenovo Legion 5 Pro\\Documents\\quiz1>git add .C:\\Users\\Lenovo Legion 5 Pro\\Documents\\quiz1>git commit -m \"meow\"[main (root-commit) 1b658ac] meow 1 file changed, 0 insertions(+), 0 deletions(-) create mode 100644 meow.txtC:\\Users\\Lenovo Legion 5 Pro\\Documents\\quiz1>git push origin maininfo: please complete authentication in your browser...Enumerating objects: 3, done.Counting objects: 100% (3/3), done.Writing objects: 100% (3/3), 206 bytes | 103.00 KiB/s, done.Total 3 (delta 0), reused 0 (delta 0), pack-reused 0To https://github.com/Afifi47/project1.git * [new branch]      main -> mainC:\\Users\\Lenovo Legion 5 Pro\\Documents\\quiz1>",
+            "request": "launch",
+            "url": "http://C:\\Users\\Lenovo Legion 5 Pro\\Documents\\quiz1>git add .C:\\Users\\Lenovo Legion 5 Pro\\Documents\\quiz1>git commit -m \"meow\"[main (root-commit) 1b658ac] meow 1 file changed, 0 insertions(+), 0 deletions(-) create mode 100644 meow.txtC:\\Users\\Lenovo Legion 5 Pro\\Documents\\quiz1>git push origin maininfo: please complete authentication in your browser...Enumerating objects: 3, done.Counting objects: 100% (3/3), done.Writing objects: 100% (3/3), 206 bytes | 103.00 KiB/s, done.Total 3 (delta 0), reused 0 (delta 0), pack-reused 0To https://github.com/Afifi47/project1.git * [new branch]      main -> mainC:\\Users\\Lenovo Legion 5 Pro\\Documents\\quiz1>"
+        }
+    ]
+}
